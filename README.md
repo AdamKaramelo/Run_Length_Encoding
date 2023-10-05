@@ -1,4 +1,4 @@
-# Team121 - Bitmap Lauflängenkodierung
+# Bitmap Lauflängenkodierung
 
 Komprimiere Bitmaps über die Lauflängenkodierung (run-length-encoding)
 
