@@ -2,11 +2,6 @@
 
 Komprimiere Bitmaps über die Lauflängenkodierung (run-length-encoding)
 
-## Projektrepo
-- `Ausarbeitung/`: enthält die Ausarbeitung als LaTeX und PDF
-- `Implementierung/`: enthält die Implementierung
-- `Vortrag/`: Folien für die Präsentation
-
 ## Implementierung
 
 ### Installation
